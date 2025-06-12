@@ -1,0 +1,8 @@
+streamlit
+yfinance
+snscrape
+prophet
+matplotlib
+requests
+pandas
+nump
